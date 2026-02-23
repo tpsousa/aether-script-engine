@@ -1,0 +1,33 @@
+x = 5
+y = 10
+
+while x < y
+    print(x)
+    x = x + 1
+print("hello world")
+end
+
+x = 5
+y = 10
+
+while x < y
+    print(x)
+    x = x + 1
+end
+
+x = 10
+
+if x > 5
+    print("maior")
+else
+    print("menor")
+end
+
+x = 5
+
+i = 0
+
+while i < x
+ print(i)
+ i = i + 1
+end

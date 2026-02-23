@@ -1,0 +1,4 @@
+javac aether/gui/AetherIDE.java
+
+java aether/gui/AetherIDE
+

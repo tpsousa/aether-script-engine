@@ -1,0 +1,1 @@
+Aether is a custom scripting language interpreter built in Java, featuring lexical analysis, parsing, AST generation and execution engine.
